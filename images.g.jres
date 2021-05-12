@@ -1,0 +1,27 @@
+{
+    "image1": {
+        "data": "hwQQAA4AAAAARA4AAAAAAEC76wAAAAAAtLvk/g8AAAC0S1RV9P//ALRLVV9lVPUA4FVVVWVVDwAAXlVFb1UPAABeVUVvVf8A4FVVVWVV9QC0S1VfZUUPALRLVFVGVQ8AtLvk/k9U9QBAu+sA8PT/AABEDgBf9QAAAAAA8FUPAAAAAADw/wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Temporary asset"
+    },
+    "image2": {
+        "data": "hwQQAA4AAAAARA4AAAAAAEBV5QAAAAAAVFXk/g8AAABURVRV9P//AFRFhVhlVPUA4FWFVWVVDwAAXlVFb1UPAABeVUVvVf8A4FWFVWVV9QBURYVYZUUPAFRFVFVGVQ8AVFXk/k9U9QBAVeUA8PT/AABEDgBf9QAAAAAA8FUPAAAAAADw/wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Temporary asset0"
+    },
+    "image3": {
+        "data": "hwQQAA4AAAAARA4AAAAAAEBV5QAAAAAAVFXo/g8AAABUhVhV9IiIAFSFGF+FWIUA4IX4UYVVCAAAjlhFj1UIAACOWEWPVYgA4IX4UYVVhQBUhRhfhYUIAFSFWFWGWAgAVFXo/k9UhQBAVeUA8ISIAABEDoBYhQAAAAAAgIgIAAAAAACAiAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Temporary asset1"
+    },
+    "image4": {
+        "data": "hwQQAA4AAAAARA4AAAAAAEBV5QAAAAAAVFXv/g8AAABU9V9V9P//AFT1H1/1X/UA4PX/UfVVDwAA/l9F/1UPAAD+X0X/Vf8A4PX/UfVV9QBU9R9f9fX/AFT1X1X/Xw8AVFXv/k9U9QBAVeUA8PT/AABEDvBf9QAAAAAA8P8PAAAAAADw/wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Temporary asset2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
